@@ -2,6 +2,8 @@
 
 ## I'm a Developer and Eternal student.
 
+___
+
 - 🔭 I’m currently working on becoming the best developer, I possibly can. 
 - 🌱 I’m currently learning clean code principles.
 - 👯 I’m looking to collaborate on interesting Unity projects.
@@ -21,8 +23,6 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][linkedin]
 
 <br />
-
-___
 
 ![Joshuah's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshuahBoardman)]
 
