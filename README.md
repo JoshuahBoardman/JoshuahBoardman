@@ -1,5 +1,7 @@
 ### Hi there, I'm Josh Boardman
 
+<img align="right" alt="GIF" src="https://media0.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy.gif" width="500" height="320" />
+
 ## I'm 
 
 - 🔭 I’m currently working on becoming the best developer, I possibly can be. 
