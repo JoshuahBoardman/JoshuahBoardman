@@ -1,13 +1,14 @@
 ### Hi there, I'm Josh Boardman
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif" width="300" height="300" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300" height="300" />
 
 ## I'm 
 
-- 🔭 I’m currently working on becoming the best developer, I possibly can be. 
-- 🌱 I’m currently learning whaterver I can! 
+- 🔭 I’m currently working on becoming the best developer, I possibly can. 
+- 🌱 I’m currently learning clean code principles.
 - 👯 I’m looking to collaborate on interesting Unity projects.
-- ⚡ Fun fact: I'm addicted to games and problem solving and I own a parrot naemed Maui.
+- ⚡ Fun fact: I'm addicted to games and problem solving, also I own a parrot named Maui.
+
 
 ### Reach out to me:
 
