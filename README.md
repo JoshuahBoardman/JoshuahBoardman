@@ -1,6 +1,8 @@
 ### Hi there, I'm Josh Boardman
 
 ## I'm a Developer and Eternal student.
+<br />
+
 ___
 
 - 🔭 I’m currently working on becoming the best developer, I possibly can. 
