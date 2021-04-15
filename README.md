@@ -24,7 +24,7 @@
 
 ___
 
-![Joshuah's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshuahBoardman)](https://github.com/anuraghazra/github-readme-stats)
+![Joshuah's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshuahBoardman)]
 
 
 [linkedin]: https://www.linkedin.com/in/joshuahboardman/
