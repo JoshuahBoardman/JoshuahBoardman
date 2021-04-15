@@ -7,7 +7,6 @@
 - 👯 I’m looking to collaborate on interesting Unity projects.
 - ⚡ Fun fact: I'm addicted to games and problem solving, also I own a parrot named Maui.
 
-
 ### Reach out to me:
 
 [<img align="left" alt="JoshuahBoardman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -22,6 +21,10 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][linkedin]
 
 <br />
+
+___
+
+![Joshuah's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshuahBoardman)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [linkedin]: https://www.linkedin.com/in/joshuahboardman/
