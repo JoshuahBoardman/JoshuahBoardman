@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on becoming the best developer, I possibly can be. 
 - 🌱 I’m currently learning whaterver I can! 
 - 👯 I’m looking to collaborate on interesting Unity projects.
-- ⚡ Fun fact: I'm addicted to games and problem solving!
+- ⚡ Fun fact: I'm addicted to games and problem solving and I own a parrot naemed Maui.
 
 ### Reach out to me:
 
