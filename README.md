@@ -24,7 +24,7 @@
 <br />
 <br />
 
-![Joshuah's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshuahBoardman ?theme=dracula)
+![Joshuah's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshuahBoardman?theme=dracula)
 
 
 [linkedin]: https://www.linkedin.com/in/joshuahboardman/
