@@ -24,7 +24,7 @@
 <br />
 <br />
 
-![Joshuah's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshuahBoardman&theme=dark)
+![Joshuah's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshuahBoardman&theme=tokyonight)
 
 
 [linkedin]: https://www.linkedin.com/in/joshuahboardman/
