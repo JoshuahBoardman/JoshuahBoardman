@@ -1,9 +1,6 @@
 ### Hi there, I'm Josh Boardman
 
 ## I'm 
-<!--
-**JoshuahBoardman/JoshuahBoardman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 - 🔭 I’m currently working on becoming the best developer, I possibly can be. 
 - 🌱 I’m currently learning whaterver I can! 
