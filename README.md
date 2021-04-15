@@ -1,6 +1,6 @@
 ### Hi there, I'm Josh Boardman
 
-<img align="right" alt="GIF" src="https://media0.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://media0.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy.gif" width="300" height="300" />
 
 ## I'm 
 
