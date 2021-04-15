@@ -1,8 +1,6 @@
 ### Hi there, I'm Josh Boardman
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" height="100" />
-
-## I'm 
+## I'm a Developer and Eternal student.
 
 - 🔭 I’m currently working on becoming the best developer, I possibly can. 
 - 🌱 I’m currently learning clean code principles.
