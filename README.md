@@ -9,6 +9,7 @@
 
 ### Reach out to me:
 
+[<img align="left" alt="https://joshuahboardman.github.io/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="JoshuahBoardman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
@@ -28,3 +29,4 @@
 
 
 [linkedin]: https://www.linkedin.com/in/joshuahboardman/
+[website]: https://joshuahboardman.github.io/
