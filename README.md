@@ -2,6 +2,13 @@
 ### I am a front-end web developer
 I'm a developer with a passion for self-improvement and a desire to create meaningful projects that will bring value to people's lives.
 
+### About Me:
+- 🌱 I’m currently learning data structures and algorithms. 
+- 👯 I’m looking to collaborate on interesting and innovative projects. 
+- 💬 Ask me about anything game related.  
+- 📫 How to reach me: joshuahboardman@gmail.com 
+- ⚡ Fun fact: My best friend is a sun conure (parrot) named Maui. 
+
 ### Skills:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -11,13 +18,6 @@ I'm a developer with a passion for self-improvement and a desire to create meani
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </div>
-
-### About Me:
-- 🌱 I’m currently learning data structures and algorithms. 
-- 👯 I’m looking to collaborate on interesting and innovative projects. 
-- 💬 Ask me about anything game related.  
-- 📫 How to reach me: joshuahboardman@gmail.com 
-- ⚡ Fun fact: My best friend is a sun conure (parrot) named Maui. 
 
 ### Links:
 
