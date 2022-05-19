@@ -1,32 +1,18 @@
-### Hi there, I'm Josh Boardman
+### Hi there 👋, my name is Joshuah Boardman
+#### I am a front-end web developer
+I'm a developer with a passion for self-improvement and a desire to create meaningful projects that will bring value to people's lives.
 
-## I'm a Developer and Eternal student.
+Skills: HTML, CSS, JavaScript, React, Bootstrap, Git
 
-- 🔭 I’m currently working on becoming the best developer, I possibly can. 
-- 🌱 I’m currently learning clean code principles.
-- 👯 I’m looking to collaborate on interesting Unity projects.
-- ⚡ Fun fact: I'm addicted to games and problem solving, also I own a parrot named Maui.
-
-### Reach out to me:
-
-[<img align="left" alt="https://joshuahboardman.github.io/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="JoshuahBoardman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
-
-### Languages and Tools:
-
-[<img align="left" alt="CSharp" width="26px" style="color:white; background-color: #fff; " src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />][linkedin]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][linkedin]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][linkedin]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][linkedin]
-
-<br />
-<br />
-<br />
-
-![Joshuah's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshuahBoardman&theme=tokyonight)
+- 🌱 I’m currently learning data structures and algorithms. 
+- 👯 I’m looking to collaborate on interesting and innovative projects. 
+- 💬 Ask me about anything game related.  
+- 📫 How to reach me: joshuahboardman@gmail.com 
+- ⚡ Fun fact: My best friend is a sun conure (parrot) named Maui. 
 
 
-[linkedin]: https://www.linkedin.com/in/joshuahboardman/
-[website]: https://www.joshuahboardman.com/
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JoshuahBoardman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/joshuahboardman//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/JoshuahBoardman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.joshuahboardman.com/)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshuahBoardman&show_icons=true)  
+
+
