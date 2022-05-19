@@ -11,6 +11,7 @@ Skills: HTML, CSS, JavaScript, React, Bootstrap, Git
 - ⚡ Fun fact: My best friend is a sun conure (parrot) named Maui. 
 
 <br />
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JoshuahBoardman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/joshuahboardman//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/JoshuahBoardman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.joshuahboardman.com/)  
 
 ![Joshuah Boardman's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshuahBoardman&show_icons=true&theme=tokyonight)  
