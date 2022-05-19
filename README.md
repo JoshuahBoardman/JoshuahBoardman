@@ -12,6 +12,7 @@ I'm a developer with a passion for self-improvement and a desire to create meani
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
+#### About Me:
 - 🌱 I’m currently learning data structures and algorithms. 
 - 👯 I’m looking to collaborate on interesting and innovative projects. 
 - 💬 Ask me about anything game related.  
