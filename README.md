@@ -2,8 +2,8 @@
 **I'm a developer with a passion for self-improvement and a desire to create <br />
 meaningful projects that will bring value to people's lives.**
 
-### About Me:
-- 🌱 I’m currently learning data structures and algorithms. 
+### &nbsp; &nbsp; About Me:
+&nbsp; &nbsp; - 🌱 I’m currently learning data structures and algorithms. 
 - 👯 I’m looking to collaborate on interesting and innovative projects. 
 - 💬 Ask me about anything game related.  
 - 📫 How to reach me: joshuahboardman@gmail.com 
