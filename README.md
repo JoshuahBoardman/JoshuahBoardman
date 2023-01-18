@@ -2,7 +2,7 @@
 
 #### *&nbsp; &nbsp; I'm a developer with a passion for self-improvement and a desire to create* <br /> *&nbsp; &nbsp; meaningful projects that will bring value to people's lives.* <br />
 &nbsp; &nbsp; 🌱 &nbsp; I’m currently learning data structures and algorithms. <br />
-&nbsp; &nbsp; 👯 &nbsp; I’m looking to collaborate on interesting and innovative projects. <br />
+&nbsp; &nbsp; :telescope: &nbsp; I’m looking to collaborate on interesting and innovative projects. <br />
 &nbsp; &nbsp; 💬 &nbsp; Ask me about anything game related.  <br />
 &nbsp; &nbsp; 📫 &nbsp; How to reach me: joshuahboardman@gmail.com <br />
 &nbsp; &nbsp; :parrot: &nbsp; I'm best friend with a sun conure (parrot) named Maui. <br />
