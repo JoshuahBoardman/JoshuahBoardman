@@ -7,7 +7,7 @@ meaningful projects that will bring value to people's lives.**
 - 👯 I’m looking to collaborate on interesting and innovative projects. 
 - 💬 Ask me about anything game related.  
 - 📫 How to reach me: joshuahboardman@gmail.com 
-- :parrot: My best friend is a sun conure (parrot) named Maui. 
+- :parrot: I'm best friend with a sun conure (parrot) named Maui. 
 
 
 ### Reach Out: 
