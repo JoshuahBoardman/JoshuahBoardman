@@ -1,4 +1,4 @@
-## Howdy I'm Joshuah Boardman 👋
+## Howdy 👋, I'm Joshuah Boardman
 **I'm a developer with a passion for self-improvement and a desire to create <br />
 meaningful projects that will bring value to people's lives.**
 
