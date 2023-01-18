@@ -3,11 +3,11 @@
 meaningful projects that will bring value to people's lives.**
 
 ### &nbsp; &nbsp; About Me:
-&nbsp; &nbsp; &nbsp; &nbsp; 🌱 I’m currently learning data structures and algorithms. <br />
-&nbsp; &nbsp; &nbsp; &nbsp; 👯 I’m looking to collaborate on interesting and innovative projects. <br />
-&nbsp; &nbsp; &nbsp; &nbsp; 💬 Ask me about anything game related.  <br />
-&nbsp; &nbsp; &nbsp; &nbsp; 📫 How to reach me: joshuahboardman@gmail.com <br />
-&nbsp; &nbsp; &nbsp; &nbsp; :parrot: I'm best friend with a sun conure (parrot) named Maui. <br />
+&nbsp; &nbsp; &nbsp; &nbsp; 🌱 &nbsp; I’m currently learning data structures and algorithms. <br />
+&nbsp; &nbsp; &nbsp; &nbsp; 👯 &nbsp; I’m looking to collaborate on interesting and innovative projects. <br />
+&nbsp; &nbsp; &nbsp; &nbsp; 💬 &nbsp; Ask me about anything game related.  <br />
+&nbsp; &nbsp; &nbsp; &nbsp; 📫 &nbsp; How to reach me: joshuahboardman@gmail.com <br />
+&nbsp; &nbsp; &nbsp; &nbsp; :parrot: &nbsp; I'm best friend with a sun conure (parrot) named Maui. <br />
 
 
 ### &nbsp; &nbsp; Reach Out: 
