@@ -1,6 +1,6 @@
 ## &nbsp; &nbsp; Howdy 👋, I'm Josh
-** &nbsp; &nbsp; I'm a developer with a passion for self-improvement and a desire to create ** <br />
-** &nbsp; &nbsp; meaningful projects that will bring value to people's lives.**
+**&nbsp; &nbsp; I'm a developer with a passion for self-improvement and a desire to create** <br />
+**&nbsp; &nbsp; meaningful projects that will bring value to people's lives.**
 
 ### &nbsp; &nbsp; About Me:
 &nbsp; &nbsp; &nbsp; &nbsp; 🌱 &nbsp; I’m currently learning data structures and algorithms. <br />
