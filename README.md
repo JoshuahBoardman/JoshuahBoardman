@@ -2,8 +2,10 @@
 **&nbsp; &nbsp; I'm a developer with a passion for self-improvement and a desire to create** <br />
 **&nbsp; &nbsp; meaningful projects that will bring value to people's lives.**
 
-### &nbsp; &nbsp; About Me:
 &nbsp; &nbsp; [<img src='https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg' alt='github' height='30'>](https://www.linkedin.com/in/joshuahboardman) &nbsp; [<img src='https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitter.svg' alt='twitter' height='30'>](https://twitter.com/https://twitter.com/JoshuahBoardman) &nbsp; [<img src='https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Google.svg' alt='website' height='30'>](https://www.joshuahboardman.com/) <br />
+
+### &nbsp; &nbsp; About Me:
+
 &nbsp; &nbsp; 🌱 &nbsp; I’m currently learning data structures and algorithms. <br />
 &nbsp; &nbsp; 👯 &nbsp; I’m looking to collaborate on interesting and innovative projects. <br />
 &nbsp; &nbsp; 💬 &nbsp; Ask me about anything game related.  <br />
