@@ -8,6 +8,7 @@ meaningful projects that will bring value to people's lives.**
 - 💬 Ask me about anything game related.  
 - 📫 How to reach me: joshuahboardman@gmail.com 
 - ⚡ Fun fact: My best friend is a sun conure (parrot) named Maui. 
+- :parrot:
 
 ### Reach Out: 
 [<img src='https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg' alt='github' height='30'>](https://www.linkedin.com/in/joshuahboardman)  [<img src='https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitter.svg' alt='twitter' height='30'>](https://twitter.com/https://twitter.com/JoshuahBoardman)  [<img src='https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Google.svg' alt='website' height='30'>](https://www.joshuahboardman.com/) 
