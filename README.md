@@ -9,8 +9,7 @@ I'm a developer with a passion for self-improvement and a desire to create meani
 - 📫 How to reach me: joshuahboardman@gmail.com 
 - ⚡ Fun fact: My best friend is a sun conure (parrot) named Maui. 
 
-### Tech I Love:
-[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20I%20Love&showBorder=false&lineCount=2&theme=catppuccin_frappe&gap=15&hideBg=true&hideTitle=true&line1=Go,Go,00A7D0;typescript,typescript,0076C6;react,react,5ED3F3;tailwindcss,tailwindcss,35B3EB;&line2=Neovim,Neovim,77B262;Next.js,Next.js,fff;Linux,Linux,168ECC;astro,astro,FF5D01;)](https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20I%20Love&showBorder=false&lineCount=2&theme=catppuccin_frappe&gap=15&hideBg=true&hideTitle=true&line1=Go,Go,00A7D0;typescript,typescript,0076C6;react,react,5ED3F3;tailwindcss,tailwindcss,35B3EB;&line2=Neovim,Neovim,77B262;Next.js,Next.js,fff;Linux,Linux,168ECC;astro,astro,FF5D01;)
+[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20I%20Love&showBorder=false&lineCount=2&theme=catppuccin_frappe&gap=15&hideBg=true&line1=Go,Go,00A7D0;typescript,typescript,0076C6;react,react,5ED3F3;tailwindcss,tailwindcss,35B3EB;&line2=Neovim,Neovim,77B262;Next.js,Next.js,fff;Linux,Linux,168ECC;astro,astro,FF5D01;)](https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20I%20Love&showBorder=false&lineCount=2&theme=catppuccin_frappe&gap=15&hideBg=true&line1=Go,Go,00A7D0;typescript,typescript,0076C6;react,react,5ED3F3;tailwindcss,tailwindcss,35B3EB;&line2=Neovim,Neovim,77B262;Next.js,Next.js,fff;Linux,Linux,168ECC;astro,astro,FF5D01;)
 
 ### Links:
 
