@@ -1,8 +1,9 @@
 ## &nbsp; &nbsp; Howdy 👋, I'm Josh
-**&nbsp; &nbsp; I'm a developer with a passion for self-improvement and a desire to create** <br />
-**&nbsp; &nbsp; meaningful projects that will bring value to people's lives.**
 
 &nbsp; &nbsp; [<img src='https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg' alt='github' height='30'>](https://www.linkedin.com/in/joshuahboardman) &nbsp; [<img src='https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitter.svg' alt='twitter' height='30'>](https://twitter.com/https://twitter.com/JoshuahBoardman) &nbsp; [<img src='https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Google.svg' alt='website' height='30'>](https://www.joshuahboardman.com/) <br />
+
+**&nbsp; &nbsp; I'm a developer with a passion for self-improvement and a desire to create** <br />
+**&nbsp; &nbsp; meaningful projects that will bring value to people's lives.**
 
 ### &nbsp; &nbsp; About Me:
 
