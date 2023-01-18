@@ -16,4 +16,4 @@
 
 [![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20I%20Love&showBorder=false&lineCount=2&theme=catppuccin_frappe&gap=15&hideBg=true&line1=Go,Go,00A7D0;typescript,typescript,0076C6;react,react,5ED3F3;tailwindcss,tailwindcss,35B3EB;&line2=Neovim,Neovim,77B262;Next.js,Next.js,fff;Linux,Linux,168ECC;astro,astro,FF5D01;)](https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20I%20Love&showBorder=false&lineCount=2&theme=catppuccin_frappe&gap=15&hideBg=true&line1=Go,Go,00A7D0;typescript,typescript,0076C6;react,react,5ED3F3;tailwindcss,tailwindcss,35B3EB;&line2=Neovim,Neovim,77B262;Next.js,Next.js,fff;Linux,Linux,168ECC;astro,astro,FF5D01;)
 
-![Joshuah Boardman's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshuahBoardman&show_icons=true&&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be&hide_border=true) 
+![Joshuah Boardman's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshuahBoardman&show_icons=true&&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be&hide_border=true&theme=transparent) 
