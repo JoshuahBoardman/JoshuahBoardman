@@ -1,6 +1,6 @@
 ## Hi there 👋, my name is Joshuah Boardman
 ### I am a front-end web developer
-I'm a developer with a passion for self-improvement and a desire to create 
+I'm a developer with a passion for self-improvement and a desire to create /n
 meaningful projects that will bring value to people's lives.
 
 ### About Me:
