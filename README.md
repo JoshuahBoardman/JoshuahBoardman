@@ -1,4 +1,4 @@
-[![MasterHead]()](https://joshuahboardman.com)
+[![MasterHead](https://github.com/JoshuahBoardman/JoshuahBoardman/blob/main/icons/LinkedIn%20Banner%20v1.png)](https://joshuahboardman.com)
 <h1 align="center">Hi 🌊, I'm Joshuah Boardman</h1>
 <h3 align="center">A enthusiastic developer who loves to learn</h3>
 <img align="right" alt="Ferris" width="400" src="https://github.com/JoshuahBoardman/JoshuahBoardman/blob/main/icons/1024px-Original_Ferris.svg.png">
