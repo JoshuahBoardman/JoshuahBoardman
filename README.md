@@ -1,6 +1,7 @@
+[![MasterHead]()](https://joshuahboardman.com)
 <h1 align="center">Hi 🌊, I'm Joshuah Boardman</h1>
 <h3 align="center">A enthusiastic developer who loves to learn</h3>
-<img align="right" alt="Coding" width="400" src="">
+<img align="right" alt="Ferris" width="400" src="https://github.com/JoshuahBoardman/JoshuahBoardman/blob/main/icons/1024px-Original_Ferris.svg.png">
 
 - 🔭 I’m currently working on **A game engine**
 
