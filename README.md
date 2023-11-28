@@ -34,3 +34,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joshuahboardman&show_icons=true&locale=en" alt="joshuahboardman" /></p>
 
+[Joshuah Boardman's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshuahBoardman&show_icons=true&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be&hide_border=true&theme=transparent) 
+
