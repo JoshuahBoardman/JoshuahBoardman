@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/JoshuahBoardman/JoshuahBoardman/blob/main/icons/Roboto%Mono(3)%Crop.png)](https://joshuahboardman.com)
+[![MasterHead](https://github.com/JoshuahBoardman/JoshuahBoardman/blob/main/icons/banner.png)](https://joshuahboardman.com)
 
 # Hi 🌊, I'm Joshuah Boardman
  
