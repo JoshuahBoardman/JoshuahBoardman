@@ -13,7 +13,6 @@ Four years shipping production web applications, across greenfield builds and la
 - 🐶 Fun fact: **I have a dog named Boba**, after the tea, not the bounty hunter <br>
 - ⌨️ A filthy **Neovim** user <br>
 - 📫 Reach me at **joshuahboardman@gmail.com**
-### Languages and Tools
  
 ### Languages and Tools
  
