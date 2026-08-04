@@ -1,6 +1,6 @@
 [![MasterHead](https://github.com/JoshuahBoardman/JoshuahBoardman/blob/main/icons/banner.png)](https://joshuahboardman.com)
 
-# Hey 🔊, I'm Josh Boardman
+# Hey 📣, I'm Josh Boardman
  
 ### Full-stack developer: React and TypeScript, C#/.NET and Postgres
  
